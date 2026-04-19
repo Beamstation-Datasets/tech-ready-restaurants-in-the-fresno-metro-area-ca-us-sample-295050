@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the Fresno Metro Area, CA, US",
-  "export_job_id": "bc4beba5-8e45-4223-b055-2a91d600bc10",
+  "export_job_id": "ac4a3092-0784-474a-ad66-465dc0383d24",
   "github_org": "Beamstation-Datasets",
   "id_short": 295050,
   "location_name": "Fresno, CA",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/295050/beamstation_295050_restaurants-us-fresnoca_SAMPLE_DIST.csv",
   "sample_pct": 50.0,
   "sample_records": 1,
-  "sample_sha256": "1a4ee4d1f065a7d8a2483e716467155cf5eccc122625499b35a9be9f93b02128",
-  "sample_size_bytes": 19673,
+  "sample_sha256": "fa672ecc7d291a5521116a9783e0656ce6b4f1a5356928487f002639e368f610",
+  "sample_size_bytes": 19677,
   "total_records": 2,
-  "updated_at": "2026-04-08T03:40:40.346552+00:00"
+  "updated_at": "2026-04-15T08:25:49.209476+00:00"
 }
