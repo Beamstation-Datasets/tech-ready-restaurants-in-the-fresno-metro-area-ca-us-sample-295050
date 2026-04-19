@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bc4beba5-8e45-4223-b055-2a91d600bc10",
+  "export_job_id": "ac4a3092-0784-474a-ad66-465dc0383d24",
   "id_short": 295050,
-  "published_at": "2026-04-11T19:17:41Z",
+  "published_at": "2026-04-19T07:24:14Z",
   "repo_name": "tech-ready-restaurants-in-the-fresno-metro-area-ca-us-sample-295050",
   "sample_asset_name": "beamstation_295050_restaurants-us-fresnoca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/295050/beamstation_295050_restaurants-us-fresnoca_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "1a4ee4d1f065a7d8a2483e716467155cf5eccc122625499b35a9be9f93b02128",
-  "sample_size_bytes": 19673,
+  "sample_sha256": "fa672ecc7d291a5521116a9783e0656ce6b4f1a5356928487f002639e368f610",
+  "sample_size_bytes": 19677,
   "total_records": 2
 }
