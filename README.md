@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 2 records |
 | Free sample size | 1 records (50.0%) |
-| Last export | 2026-04-08T03:40:40.346552+00:00 |
+| Last export | 2026-04-15T08:25:49.209476+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-fresno-metro-area-ca-us-sample-295050/releases/download/sample-latest/beamstation_295050_restaurants-us-fresnoca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
