@@ -9,9 +9,9 @@
 | Dataset ID | `295050` |
 | Location | Fresno, CA |
 | Category | Restaurants |
-| Full dataset size | 2 records |
-| Free sample size | 1 records (50.0%) |
-| Last export | 2026-04-15T08:25:49.209476+00:00 |
+| Full dataset size | 16 records |
+| Free sample size | 1 records (6.25%) |
+| Last export | 2026-04-29T15:46:39.085852+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-fresno-metro-area-ca-us-sample-295050/releases/download/sample-latest/beamstation_295050_restaurants-us-fresnoca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
